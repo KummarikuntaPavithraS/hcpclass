@@ -14,7 +14,7 @@ region="ap-south-2"
 }
 
 
-resource "aws_instance"{
+resource "aws_instance" "pavi"{
 ami="ami-020728ad6199d7fa0"
 instance_type="t3.small"
 
