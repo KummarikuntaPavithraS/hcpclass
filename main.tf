@@ -19,6 +19,6 @@ ami="ami-0145fa7273a830754"
 instance_type="t3.small"
 
 tags={
-name="Amazon-server"
+Name="Amazon-server"
 }
 }
